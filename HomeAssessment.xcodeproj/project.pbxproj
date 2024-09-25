@@ -7,18 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E6FCDF8A2CA3064C00D63AA2 /* HomeAssesmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF892CA3064C00D63AA2 /* HomeAssesmentApp.swift */; };
-		E6FCDF8C2CA3064C00D63AA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF8B2CA3064C00D63AA2 /* ContentView.swift */; };
+		E61D21A72CA32E6500E41086 /* font-Bilo.otf in Resources */ = {isa = PBXBuildFile; fileRef = E61D21A62CA32E6500E41086 /* font-Bilo.otf */; };
+		E6EBC4612CA34D0500034205 /* Montserrat.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6EBC4602CA34D0500034205 /* Montserrat.ttf */; };
+		E6EBC4662CA3814300034205 /* AbhayaLibre-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6EBC4652CA3814300034205 /* AbhayaLibre-SemiBold.ttf */; };
+		E6FCDF8A2CA3064C00D63AA2 /* HomeAssessmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF892CA3064C00D63AA2 /* HomeAssessmentApp.swift */; };
+		E6FCDF8C2CA3064C00D63AA2 /* Catalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF8B2CA3064C00D63AA2 /* Catalog.swift */; };
 		E6FCDF8E2CA3064F00D63AA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6FCDF8D2CA3064F00D63AA2 /* Assets.xcassets */; };
 		E6FCDF912CA3064F00D63AA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6FCDF902CA3064F00D63AA2 /* Preview Assets.xcassets */; };
+		E6FCDF982CA30A6300D63AA2 /* DetailedProductPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF972CA30A6300D63AA2 /* DetailedProductPage.swift */; };
+		E6FCDF9C2CA30D2400D63AA2 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF9B2CA30D2400D63AA2 /* Product.swift */; };
+		E6FCDF9F2CA30E5200D63AA2 /* ProductViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF9E2CA30E5200D63AA2 /* ProductViewModel.swift */; };
+		E6FCDFA12CA3164700D63AA2 /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDFA02CA3164700D63AA2 /* ProductCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E6FCDF862CA3064C00D63AA2 /* HomeAssesment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeAssesment.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E6FCDF892CA3064C00D63AA2 /* HomeAssesmentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAssesmentApp.swift; sourceTree = "<group>"; };
-		E6FCDF8B2CA3064C00D63AA2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E61D21A62CA32E6500E41086 /* font-Bilo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "font-Bilo.otf"; sourceTree = "<group>"; };
+		E6EBC4602CA34D0500034205 /* Montserrat.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Montserrat.ttf; sourceTree = "<group>"; };
+		E6EBC4622CA34E5B00034205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6EBC4652CA3814300034205 /* AbhayaLibre-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AbhayaLibre-SemiBold.ttf"; sourceTree = "<group>"; };
+		E6FCDF862CA3064C00D63AA2 /* HomeAssessment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeAssessment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6FCDF892CA3064C00D63AA2 /* HomeAssessmentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAssessmentApp.swift; sourceTree = "<group>"; };
+		E6FCDF8B2CA3064C00D63AA2 /* Catalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catalog.swift; sourceTree = "<group>"; };
 		E6FCDF8D2CA3064F00D63AA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6FCDF902CA3064F00D63AA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E6FCDF972CA30A6300D63AA2 /* DetailedProductPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedProductPage.swift; sourceTree = "<group>"; };
+		E6FCDF9B2CA30D2400D63AA2 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		E6FCDF9E2CA30E5200D63AA2 /* ProductViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewModel.swift; sourceTree = "<group>"; };
+		E6FCDFA02CA3164700D63AA2 /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +50,7 @@
 		E6FCDF7D2CA3064C00D63AA2 = {
 			isa = PBXGroup;
 			children = (
-				E6FCDF882CA3064C00D63AA2 /* HomeAssesment */,
+				E6FCDF882CA3064C00D63AA2 /* HomeAssessment */,
 				E6FCDF872CA3064C00D63AA2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +58,26 @@
 		E6FCDF872CA3064C00D63AA2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E6FCDF862CA3064C00D63AA2 /* HomeAssesment.app */,
+				E6FCDF862CA3064C00D63AA2 /* HomeAssessment.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E6FCDF882CA3064C00D63AA2 /* HomeAssesment */ = {
+		E6FCDF882CA3064C00D63AA2 /* HomeAssessment */ = {
 			isa = PBXGroup;
 			children = (
-				E6FCDF892CA3064C00D63AA2 /* HomeAssesmentApp.swift */,
-				E6FCDF8B2CA3064C00D63AA2 /* ContentView.swift */,
+				E6EBC4622CA34E5B00034205 /* Info.plist */,
+				E61D21A62CA32E6500E41086 /* font-Bilo.otf */,
+				E6EBC4602CA34D0500034205 /* Montserrat.ttf */,
+				E6EBC4652CA3814300034205 /* AbhayaLibre-SemiBold.ttf */,
+				E6FCDF9D2CA30E0F00D63AA2 /* ViewModel */,
+				E6FCDF9A2CA30B6500D63AA2 /* Model */,
+				E6FCDF892CA3064C00D63AA2 /* HomeAssessmentApp.swift */,
+				E6FCDF992CA30B4700D63AA2 /* View */,
 				E6FCDF8D2CA3064F00D63AA2 /* Assets.xcassets */,
 				E6FCDF8F2CA3064F00D63AA2 /* Preview Content */,
 			);
-			path = HomeAssesment;
+			path = HomeAssessment;
 			sourceTree = "<group>";
 		};
 		E6FCDF8F2CA3064F00D63AA2 /* Preview Content */ = {
@@ -67,12 +88,38 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		E6FCDF992CA30B4700D63AA2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E6FCDF8B2CA3064C00D63AA2 /* Catalog.swift */,
+				E6FCDFA02CA3164700D63AA2 /* ProductCard.swift */,
+				E6FCDF972CA30A6300D63AA2 /* DetailedProductPage.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E6FCDF9A2CA30B6500D63AA2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E6FCDF9B2CA30D2400D63AA2 /* Product.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E6FCDF9D2CA30E0F00D63AA2 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				E6FCDF9E2CA30E5200D63AA2 /* ProductViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E6FCDF852CA3064C00D63AA2 /* HomeAssesment */ = {
+		E6FCDF852CA3064C00D63AA2 /* HomeAssessment */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E6FCDF942CA3064F00D63AA2 /* Build configuration list for PBXNativeTarget "HomeAssesment" */;
+			buildConfigurationList = E6FCDF942CA3064F00D63AA2 /* Build configuration list for PBXNativeTarget "HomeAssessment" */;
 			buildPhases = (
 				E6FCDF822CA3064C00D63AA2 /* Sources */,
 				E6FCDF832CA3064C00D63AA2 /* Frameworks */,
@@ -82,9 +129,9 @@
 			);
 			dependencies = (
 			);
-			name = HomeAssesment;
+			name = HomeAssessment;
 			productName = HomeAssesment;
-			productReference = E6FCDF862CA3064C00D63AA2 /* HomeAssesment.app */;
+			productReference = E6FCDF862CA3064C00D63AA2 /* HomeAssessment.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +149,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E6FCDF812CA3064C00D63AA2 /* Build configuration list for PBXProject "HomeAssesment" */;
+			buildConfigurationList = E6FCDF812CA3064C00D63AA2 /* Build configuration list for PBXProject "HomeAssessment" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +162,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E6FCDF852CA3064C00D63AA2 /* HomeAssesment */,
+				E6FCDF852CA3064C00D63AA2 /* HomeAssessment */,
 			);
 		};
 /* End PBXProject section */
@@ -125,7 +172,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6EBC4612CA34D0500034205 /* Montserrat.ttf in Resources */,
 				E6FCDF912CA3064F00D63AA2 /* Preview Assets.xcassets in Resources */,
+				E61D21A72CA32E6500E41086 /* font-Bilo.otf in Resources */,
+				E6EBC4662CA3814300034205 /* AbhayaLibre-SemiBold.ttf in Resources */,
 				E6FCDF8E2CA3064F00D63AA2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +187,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6FCDF8C2CA3064C00D63AA2 /* ContentView.swift in Sources */,
-				E6FCDF8A2CA3064C00D63AA2 /* HomeAssesmentApp.swift in Sources */,
+				E6FCDF8C2CA3064C00D63AA2 /* Catalog.swift in Sources */,
+				E6FCDF9C2CA30D2400D63AA2 /* Product.swift in Sources */,
+				E6FCDF982CA30A6300D63AA2 /* DetailedProductPage.swift in Sources */,
+				E6FCDF8A2CA3064C00D63AA2 /* HomeAssessmentApp.swift in Sources */,
+				E6FCDF9F2CA30E5200D63AA2 /* ProductViewModel.swift in Sources */,
+				E6FCDFA12CA3164700D63AA2 /* ProductCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,15 +325,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"HomeAssesment/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"HomeAssessment/Preview Content\"";
 				DEVELOPMENT_TEAM = 2XQGAPP47F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = HomeAssessment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +341,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Liliana.HomeAssesment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -300,15 +358,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"HomeAssesment/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"HomeAssessment/Preview Content\"";
 				DEVELOPMENT_TEAM = 2XQGAPP47F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = HomeAssessment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,16 +374,20 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Liliana.HomeAssesment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E6FCDF812CA3064C00D63AA2 /* Build configuration list for PBXProject "HomeAssesment" */ = {
+		E6FCDF812CA3064C00D63AA2 /* Build configuration list for PBXProject "HomeAssessment" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6FCDF922CA3064F00D63AA2 /* Debug */,
@@ -334,7 +396,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6FCDF942CA3064F00D63AA2 /* Build configuration list for PBXNativeTarget "HomeAssesment" */ = {
+		E6FCDF942CA3064F00D63AA2 /* Build configuration list for PBXNativeTarget "HomeAssessment" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6FCDF952CA3064F00D63AA2 /* Debug */,

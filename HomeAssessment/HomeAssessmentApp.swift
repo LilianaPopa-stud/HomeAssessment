@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct HomeAssesmentApp: App {
+struct HomeAssessmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Catalog()
         }
     }
 }
