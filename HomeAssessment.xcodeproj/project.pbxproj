@@ -47,6 +47,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E6EBC4672CA3970800034205 /* font */ = {
+			isa = PBXGroup;
+			children = (
+				E61D21A62CA32E6500E41086 /* font-Bilo.otf */,
+				E6EBC4602CA34D0500034205 /* Montserrat.ttf */,
+				E6EBC4652CA3814300034205 /* AbhayaLibre-SemiBold.ttf */,
+			);
+			path = font;
+			sourceTree = "<group>";
+		};
 		E6FCDF7D2CA3064C00D63AA2 = {
 			isa = PBXGroup;
 			children = (
@@ -67,9 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				E6EBC4622CA34E5B00034205 /* Info.plist */,
-				E61D21A62CA32E6500E41086 /* font-Bilo.otf */,
-				E6EBC4602CA34D0500034205 /* Montserrat.ttf */,
-				E6EBC4652CA3814300034205 /* AbhayaLibre-SemiBold.ttf */,
+				E6EBC4672CA3970800034205 /* font */,
 				E6FCDF9D2CA30E0F00D63AA2 /* ViewModel */,
 				E6FCDF9A2CA30B6500D63AA2 /* Model */,
 				E6FCDF892CA3064C00D63AA2 /* HomeAssessmentApp.swift */,
